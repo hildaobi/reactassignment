@@ -1,0 +1,157 @@
+{
+   "skill": [
+      {
+         "id": 13,
+         "title": "Asp.net",
+         "url": "https:\/\/dotnet.microsoft.com\/en-us\/apps\/aspnet",
+         "image": "https://impicode.com/wp-content/uploads/sites/2/2019/11/dotnet.png",
+         "created_at": "2022-08-13T00:14:01.000000Z",
+         "updated_at": "2022-08-13T00:26:16.000000Z"
+      },
+      {
+         "id": 8,
+         "title": "Css",
+         "url": "https:\/\/www.w3.org\/Style\/CSS",
+         "image": "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png",
+         "created_at": "2022-08-13T00:01:37.000000Z",
+         "updated_at": "2022-08-13T00:23:18.000000Z"
+      },
+      {
+         "id": 6,
+         "title": "HTML",
+         "url": "https:\/\/html.com",
+         "image": "https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png",
+         "created_at": "2022-08-12T23:15:59.000000Z",
+         "updated_at": "2022-08-12T23:29:19.000000Z"
+      },
+      {
+         "id": 12,
+         "title": "Javascript",
+         "url": "https:\/\/www.javascript.com",
+         "image": "https://www.freepnglogos.com/uploads/javascript-png/js-logo-on-yellow-11.png",
+         "created_at": "2022-08-13T00:05:23.000000Z",
+         "updated_at": "2022-08-13T00:25:51.000000Z"
+      },
+      {
+         "id": 9,
+         "title": "Nodejs",
+         "url": "https:\/\/nodejs.org\/en",
+         "image": "https://th.bing.com/th/id/R.de127112018dcfb47dac0560ff50e46b?rik=YmoLj%2bsT%2bnVMyQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd9%2fNode.js_logo.svg%2f200px-Node.js_logo.svg.png&ehk=fkBg71Af1nSxhtQoLuag2OIJ8C%2fTAW%2f8MikPGkrOUJU%3d&risl=&pid=ImgRaw&r=0",
+         "created_at": "2022-08-13T00:03:07.000000Z",
+         "updated_at": "2022-08-13T00:23:38.000000Z"
+      },
+      {
+         "id": 7,
+         "title": "Php",
+         "url": "https:\/\/www.php.net",
+         "image": "https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png",
+         "created_at": "2022-08-13T00:00:53.000000Z",
+         "updated_at": "2022-08-13T00:17:55.000000Z"
+      },
+      {
+         "id": 11,
+         "title": "React",
+         "url": "https:\/\/reactjs.org",
+         "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+         "created_at": "2022-08-13T00:04:39.000000Z",
+         "updated_at": "2022-08-13T00:25:21.000000Z"
+      },
+      {
+         "id": 10,
+         "title": "Sql",
+         "url": "https:\/\/www.mysql.com",
+         "image": "https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=LFgM2txNiFwy7A&riu=http%3a%2f%2fsqlbackupandftp.com%2fblog%2fwp-content%2fuploads%2f2015%2f01%2fmysql-logo_2800x2800_pixels1.png&ehk=nBPoTAB5G8HRtK%2f7O9e7uMMM%2fchy1XZ01UocW71SS48%3d&risl=&pid=ImgRaw&r=0",
+         "created_at": "2022-08-13T00:03:55.000000Z",
+         "updated_at": "2022-08-13T00:24:54.000000Z"
+      }
+   ],
+   "bios": [
+      {
+         "id": 5,
+         "info": "Hi, i'm Hilda Obioma a passionate web developer who enjoys solving problems collaboratively or alone. Love the ability to profer solution to problems using my knowledge in web development",
+         "created_at": "2022-08-13T00:35:02.000000Z",
+         "updated_at": "2022-08-13T00:35:02.000000Z"
+      }
+   ],
+   "contacts": [
+      {
+         "id": 5,
+         "title": "Hilda",
+         "Ph_no": "4168364077",
+         "email": "hilda.eokonyia@yahoo.com",
+         "created_at": "2022-08-12T23:12:28.000000Z",
+         "updated_at": "2022-08-12T23:12:28.000000Z"
+      }
+   ],
+   "socials": [
+      {
+         "id": 6,
+         "title": "facebook",
+         "url": "http:\/\/facebook.com",
+         "image": "https://www.freeiconspng.com/uploads/black-facebook-icon-9.png"
+      },
+      {
+         "id": 7,
+         "title": "github",
+         "url": "https:\/\/www.github.com",
+         "image": "https://th.bing.com/th/id/R.724794164fb289dd2f7d69dde7ac3bc0?rik=0Ubh3aP6JzCPcw&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fgithub_PNG40.png&ehk=vDH1g6b2G5qphfQR7RsUJ7HmqSSwIMycien%2fvBj03ZU%3d&risl=&pid=ImgRaw&r=0",
+         "updated_at": "2022-08-13T00:37:37.000000Z"
+      }
+   ],
+   "projects": [
+      {
+         "id": 5,
+         "title": "restaurant app",
+         "url": "http:\/\/www.restaurantapp.com",
+         "slug": "testing",
+         "image": "http:\/\/localhoststorage\/projects\/xQOhAhp561lH4LC8QJu5cADzSekyIk8fLR39AZhO.jpg",
+         "content": "created a website using Html,javascript and css",
+         "type_id": 4,
+         "user_id": 2,
+         "created_at": "2022-08-13T00:35:40.000000Z",
+         "updated_at": "2022-08-13T00:35:40.000000Z",
+         "user": {
+            "id": 2,
+            "first": "Kelly",
+            "last": "Bins",
+            "email": "kuhn.jerrod@example.net",
+            "email_verified_at": "2022-08-10T05:33:23.000000Z",
+            "created_at": "2022-08-10T05:33:24.000000Z",
+            "updated_at": "2022-08-10T05:33:24.000000Z"
+         },
+         "type": {
+            "id": 4,
+            "title": "Web application",
+            "created_at": "2022-08-13T00:35:40.000000Z",
+            "updated_at": "2022-08-13T00:35:40.000000Z"
+         }
+      },
+      {
+         "id": 6,
+         "title": "Rental Posting",
+         "url": null,
+         "slug": "used Html,Css and Javascript",
+         "image": "http://hildaobioma.infinityfreeapp.com/?i=1",
+         "content": "This was an application created to test database connection to a webpage showing rental posting",
+         "type_id": 4,
+         "user_id": 3,
+         "created_at": "2022-08-13T00:35:40.000000Z",
+         "updated_at": "2022-08-13T00:35:40.000000Z",
+         "user": {
+            "id": 3,
+            "first": "hilda",
+            "last": "obioma",
+            "email": "hilda.eokonyia@yahoo.com",
+            "email_verified_at": null,
+            "created_at": "2022-08-12T23:02:42.000000Z",
+            "updated_at": "2022-08-12T23:02:42.000000Z"
+         },
+         "type": {
+            "id": 4,
+            "title": "Web application",
+            "created_at": "2022-08-13T00:35:40.000000Z",
+            "updated_at": "2022-08-13T00:35:40.000000Z"
+         }
+      }
+   ]
+}
